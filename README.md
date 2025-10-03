@@ -4,7 +4,7 @@ This project was built on the Unity Engine. Since Unity projects are large and c
 
 I have included some sample files and scripts here for reference.  
 
-👉 You can play the full game through the WebGL build at the link below:  
+👉 You can play the full game through the WebGL build at the link below , my name is visible on the title screen of the game:  
 
 🎮  https://play.unity.com/en/games/4a7c50a3-f35b-4738-8031-05c455369453/webgl-builds
 
